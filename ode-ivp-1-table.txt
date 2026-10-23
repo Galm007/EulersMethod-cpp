@@ -1,0 +1,5 @@
+--- Approximations of ODE-IVP 1 solution at time t=1 ---
+h = 0.1   | value: 3.18748 | error: 0.249079
+h = 0.01  | value: 3.40963 | error: 0.0269358
+h = 0.001 | value: 3.43385 | error: 0.00271562
+Exact     | value: 3.43656
